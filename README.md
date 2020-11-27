@@ -1,10 +1,7 @@
-# FAQ
-#1
 <!DOCTYPE html>
 <html lang="en">
    <head>
       <meta charset="utf-8">
-      <title>FAQ</title>
    </head>
    <header>
       <h1> Photographers that you can afford</h1>
