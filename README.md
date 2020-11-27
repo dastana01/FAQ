@@ -29,9 +29,7 @@
          rel="external"><cite>Instagram.com</cite></a>.
       <p><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRwQZjwLSQPlNgQBVvQhWwLsgBPJXLNbqzWPLWrdsDQKQNXkgMvSDNLDJhWTSTXHsKgmZsWT"
          rel="external"><cite>Gmail.com</cite></a>.</p>
-      article.answer2 p {
-      color: red;
-      }
+   
       <footer>
          <p><small>&copy; Copyright 2020 by Dastana</small></p>
       </footer>
